@@ -1,6 +1,6 @@
-# Replace with recipe name
+# Olive & Tomato Salad
 
-## Servings: 
+## Servings: Serves 2
 
 ## Time to prepare: 
 
