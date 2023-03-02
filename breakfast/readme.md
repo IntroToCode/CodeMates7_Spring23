@@ -7,7 +7,7 @@
 ## Ingredients:
 
 
-## Equipment needed:
+## Equipment needed: We will need serving utensils, a pot, and utensils. 
 
 
 ## Steps for preparation:
