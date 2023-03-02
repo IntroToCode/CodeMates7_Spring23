@@ -7,7 +7,7 @@
 ## Ingredients:
 
 
-## Equipment needed:
+## Equipment needed: We will need a grill for the protein, a serving bowl, salad utensils, salad spinner. 
 
 
 ## Steps for preparation:
