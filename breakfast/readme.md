@@ -7,7 +7,8 @@
 ## Ingredients:
 
 
-## Equipment needed:
+## Equipment needed 
+- We will need serving utensils, cutlery, spatula, and a frying pan! 
 
 
 ## Steps for preparation:
