@@ -1,8 +1,10 @@
 # Replace with recipe name
 
 ## Servings: 
+Serves 4 
 
 ## Time to prepare: 
+Takes 30 minutes to prepare
 
 ## Ingredients: We will need lettuce, parmesan cheese, olives, caesar salad dressing, and croutons.
 
