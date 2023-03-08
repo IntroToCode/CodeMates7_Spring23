@@ -30,7 +30,7 @@ Takes 40 minutes to prepare
 
 
 ### Notes:
-
+Caesar dressing can be substitutions with other salad dressing to accomodate dietary restrictions or preferences. 
 
 
 ### Codemates #
