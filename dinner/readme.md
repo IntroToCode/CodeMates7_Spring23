@@ -23,7 +23,7 @@ Cheese grater, a serving bowl, salad utensils, salad spinner.
 
 
 ### Notes:
-
+Caesar dressing can be substitutions with other salad dressing to accomodate dietary restrictions or preferences. 
 
 
 ### Codemates #
