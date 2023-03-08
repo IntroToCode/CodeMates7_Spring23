@@ -4,16 +4,16 @@
 Serves 4 
 
 ## Time to prepare: 
-- Takes 40 minutes to prepare
+Takes 40 minutes to prepare
 
-## Ingredients: 
+## Ingredients:
 - Lettuce
 - Parmesan cheese
 - Olives
 - Caesar salad dressing
 - Salt
 - Pepper
-- Croutons.
+- Croutons
 
 ## Equipment needed:
 - Cheese grater
@@ -34,3 +34,4 @@ Serves 4
 
 
 ### Codemates #
+Tiffany Lorraine, Myron Lam, Eduardo Battagin, Supriya Golas, Joongkul Lee
