@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Morning Waffle
 
 ## Servings: 
 - The serving size is 4
