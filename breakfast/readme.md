@@ -28,7 +28,8 @@
 
 
 ### Notes:
+Looks good. MAke sure to just get coconut oil for the vegan waffle eaters!
 
 
+### Codemates # Tiffany Lorraine, JK Lee, Myron Lam, Eduardo Battagin, Supriya Golas
 
-### Codemates #
