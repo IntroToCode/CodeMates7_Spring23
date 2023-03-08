@@ -6,10 +6,12 @@ Serves 4
 ## Time to prepare: 
 Takes 40 minutes to prepare
 
-## Ingredients: We will need lettuce, parmesan cheese, olives, caesar salad dressing, salt, pepper and croutons.
+## Ingredients:
+We will need lettuce, parmesan cheese, olives, caesar salad dressing, salt, pepper and croutons.
 
 
-## Equipment needed: Cheese grater, a serving bowl, salad utensils, salad spinner. 
+## Equipment needed:
+Cheese grater, a serving bowl, salad utensils, salad spinner. 
 
 
 ## Steps for preparation:
@@ -25,3 +27,4 @@ Takes 40 minutes to prepare
 
 
 ### Codemates #
+Tiffany Lorraine, Eduardo Battagin, Supriya Golas, Joongkul Lee
