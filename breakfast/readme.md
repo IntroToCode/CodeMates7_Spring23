@@ -2,8 +2,9 @@
 
 ## Servings: 
 - The serving size is 4
+
 ## Time to prepare: 
-- This will take 25 minutes to prepare.
+- This will take 25 minutes to prepare
 
 ## Ingredients:
 - 2 eggs
