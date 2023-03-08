@@ -8,7 +8,10 @@
 - We will need eggs, waffles, and a good maple syrup!
 
 ## Equipment needed:
-
+- Bowl
+- Skillet
+- Mixer
+- Plate
 
 ## Steps for preparation:
 - Mix the eggs and waffes using the bowl
