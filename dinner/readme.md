@@ -1,16 +1,25 @@
-# Caeser Salad
+# Caesar Salad
 
 ## Servings: 
 Serves 4 
 
 ## Time to prepare: 
-Takes 40 minutes to prepare
+- Takes 40 minutes to prepare
 
-## Ingredients: We will need lettuce, parmesan cheese, olives, caesar salad dressing, salt, pepper and croutons.
+## Ingredients: 
+- Lettuce
+- Parmesan cheese
+- Olives
+- Caesar salad dressing
+- Salt
+- Pepper
+- Croutons.
 
-
-## Equipment needed: Cheese grater, a serving bowl, salad utensils, salad spinner. 
-
+## Equipment needed:
+- Cheese grater
+- Serving bowl
+- Salad utensils
+- Salad spinner 
 
 ## Steps for preparation:
 1. Chop up lettuce and olives. Mix using salad spinner. 
